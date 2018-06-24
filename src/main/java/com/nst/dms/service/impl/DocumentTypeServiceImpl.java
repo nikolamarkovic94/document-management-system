@@ -1,4 +1,4 @@
-package com.nst.dms.serviceImpl;
+package com.nst.dms.service.impl;
 
 import com.nst.dms.domain.DocumentType;
 import com.nst.dms.repository.DocumentTypeRepository;
