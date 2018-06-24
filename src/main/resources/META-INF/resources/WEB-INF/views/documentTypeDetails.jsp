@@ -5,7 +5,7 @@
 <!DOCTYPE >
 <html>
 <head>
-    <jsp:include page="includes.jsp"/>
+    <jsp:include page="includeCSS.jsp"/>
 </head>
 <body>
 <div class="container">
@@ -69,5 +69,6 @@
         </c:forEach>
     </table>
 </div>
+<jsp:include page="includeJS.jsp"/>
 </body>
 </html>

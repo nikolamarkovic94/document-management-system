@@ -5,7 +5,7 @@
 <!DOCTYPE >
 <html>
 <head>
-    <jsp:include page="includes.jsp"/>
+    <jsp:include page="includeCSS.jsp"/>
 </head>
 <body>
     <div class="container">

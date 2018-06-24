@@ -5,7 +5,8 @@
 <!DOCTYPE >
 <html>
 <head>
-    <jsp:include page="includes.jsp"/>
+    <jsp:include page="includeCSS.jsp"/>
+    <%--<link rel="stylesheet" href="css/style.css">--%>
     <style>
         #searchField {
             width: 100%;
@@ -17,6 +18,7 @@
     </style>
 </head>
 <body>
+    <jsp:include page="menu.jsp"/>
     <div class="container">
         <h1 class="display-4">Document Types</h1>
         <p>
@@ -76,5 +78,6 @@
             }
         }
     </script>
+    <jsp:include page="includeJS.jsp"/>
 </body>
 </html>
