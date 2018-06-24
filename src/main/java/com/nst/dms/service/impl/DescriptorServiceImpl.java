@@ -1,11 +1,10 @@
-package com.nst.dms.serviceImpl;
+package com.nst.dms.service.impl;
 
 import com.nst.dms.domain.Descriptor;
 import com.nst.dms.domain.DocumentType;
 import com.nst.dms.repository.DescriptorRepository;
 import com.nst.dms.service.DescriptorService;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 

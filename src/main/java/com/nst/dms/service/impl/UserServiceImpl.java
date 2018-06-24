@@ -1,4 +1,4 @@
-package com.nst.dms.serviceImpl;
+package com.nst.dms.service.impl;
 
 import com.nst.dms.domain.User;
 import com.nst.dms.repository.UserRepository;
